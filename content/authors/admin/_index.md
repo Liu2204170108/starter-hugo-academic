@@ -1,7 +1,7 @@
 ---
 title: Jiachen Liu
 role: Medical doctor (under-graduate)
-avatar_filename: 证件照2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include generating, analyzing and integrating big
   data of various omics.
 interests:
