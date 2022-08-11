@@ -1,7 +1,7 @@
 ---
 title: Jiachen Liu
 role: Medical doctor (under-graduate)
-avatar_filename: 中南大学大学生创新创业年会学校专场-通过基于多组学数据的药物重定位发现治疗骨质疏松的新药物-刘家辰-临八1701班.jpg
+avatar_filename: 证件照2.jpg
 bio: My research interests include generating, analyzing and integrating big
   data of various omics.
 interests:
