@@ -31,7 +31,7 @@ education:
   courses:
     - course: Medicial doctor (eight-year program)
       institution: Central south university
-      year: ""
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
