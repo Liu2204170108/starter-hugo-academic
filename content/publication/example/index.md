@@ -1,87 +1,56 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: 'The interaction between microglia and astrocytes significantly
+  influences neuroinflammation. Microglia/astrocytes, part of the neurovascular
+  unit (NVU), are activated by various brain insults. The local extracellular
+  and intracellular signals determine their characteristics and switch of
+  phenotypes. Microglia and astrocytes are activated into two polarization
+  states: the pro-inflammatory phenotype (M1 and A1) and the anti-inflammatory
+  phenotype (M2 and A2). During neuroinflammation, induced by stroke or
+  lipopolysaccharides, microglia are more sensitive to pathogens, or damage;
+  they are thus initially activated into the M1 phenotype and produce common
+  inflammatory signals such as IL-1 and TNF-α to trigger reactive astrocytes
+  into the A1 phenotype. These inflammatory signals can be amplified not only by
+  the self-feedback loop of microglial activation but also by the unique anatomy
+  structure of astrocytes. As the pathology further progresses, resulting in
+  local environmental changes, M1-like microglia switch to the M2 phenotype, and
+  M2 crosstalk with A2. While astrocytes communicate simultaneously with neurons
+  and blood vessels to maintain the function of neurons and the blood-brain
+  barrier (BBB), their subtle changes may be identified and responded by
+  astrocytes, and possibly transferred to microglia. Although both microglia and
+  astrocytes have different functional characteristics, they can achieve immune
+  "optimization" through their mutual communication and cooperation in the NVU
+  and build a cascaded immune network of amplification.'
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Li-Rong Liu 1 2
+  - Jia-Chen Liu 3
+  - Jin-Shuang Bao 1
+  - Qin-Qin Bai 1
+  - Gai-Qing Wang 1 4
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Li-Rong Liu and Jia-Chen Liu contribute equally
+publication: Frontiers in immunology
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: Front Immunol
+url_source: ""
+url_video: ""
+title: Interaction of Microglia and Astrocytes in the Neurovascular Unit
+doi: 10.3389/fimmu.2020.01024
+featured: false
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2020-07-08T09:20:23.323Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
