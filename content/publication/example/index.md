@@ -25,11 +25,11 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Li-Rong Liu 1 2
-  - Jia-Chen Liu 3
-  - Jin-Shuang Bao 1
-  - Qin-Qin Bai 1
-  - Gai-Qing Wang 1 4
+  - Li-Rong Liu#
+  - Jia-Chen Liu#
+  - Jin-Shuang Bao
+  - Qin-Qin Bai
+  - Gai-Qing Wang*
 author_notes:
   - Li-Rong Liu and Jia-Chen Liu contribute equally
 publication: Frontiers in immunology
