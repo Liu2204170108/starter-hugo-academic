@@ -13,6 +13,8 @@ authors:
   - Lirong Liu
   - Cuimei Wu
   - Gaiqing Wang
+author_notes:
+  - Pengcheng Fu and Jiachen Liu contributed equally
 doi: 10.1177/1756286420921083
 publication: Therapeutic Advances in Neurological Disorders
 publication_short: Ther Adv Neurol Disord
