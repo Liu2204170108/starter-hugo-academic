@@ -5,12 +5,13 @@ avatar_filename: avatar.jpg
 bio: My research interests include generating, analyzing and integrating big
   data of various omics.
 interests:
-  - Microbiome
   - Multi-omics
+  - Transcriptomics
+  - Microbiome
+  - Drug repositioning
   - Obesity
   - Osteoarthritis
-  - Transcriptomics
-  - Drug repositioning
+  - Sarcopenia
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,7 +33,7 @@ education:
     - course: Medicial doctor (eight-year program)
       institution: Central south university
       year: 2017
-email: ""
+email: ljch1999@csu.edu.cn
 superuser: true
 highlight_name: true
 ---
