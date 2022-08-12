@@ -30,7 +30,7 @@ organizations:
     url: https://en.csu.edu.cn/
 education:
   courses:
-    - course: Medicial doctor (eight-year program)
+    - course: Medical doctor (eight-year program)
       institution: Central south university
       year: 2017
 email: ljch1999@csu.edu.cn
