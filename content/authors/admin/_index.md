@@ -39,7 +39,7 @@ highlight_name: true
 ---
 Jiachen-Liu is a diligent researcher with extensive multi-/inter-disciplinary expertise in **biostatistics and bioinformatics methodology research, big data, transcriptomics, epigenomics, proteomics, complex traits and diseases** (especially osteoarthritis, sarcopenia, and obesity), metabolomics and metagenomics. 
 
-Liu’s work is published in **15** peer-reviewed publications including journals such as ***Ageing Research Reviews, Pharmaceutics, Therapeutic Advances in Neurological Disorders,* and *Frontiers in immunology***. As of August 2022, these publications have been cited more than **212** times and his **H-index is 7** since the first article published in 2020. Liu currently serves on the editorship/ed-itorial boards of journals(e.g.,**iMeta**), who also worked as a reviewer in several SCI journals in the **Aging** field such as ***Age and Ageing***.
+Liu’s work is published in **15** peer-reviewed publications including journals such as ***Ageing Research Reviews, Pharmaceutics, Therapeutic Advances in Neurological Disorders,* and *Frontiers in immunology***. As of August 2022, these publications have been cited more than **212** times and his **H-index is 7** since the first article published in 2020. Liu currently serves on the editorship/ed-itorial boards of journals(e.g.,***iMeta***), who also worked as a reviewer in several SCI journals in the **Aging** field such as ***Age and Ageing***.
 
 Liu’s primary research interests include all those areas that are related addressing the question: What and how **genetic and environmental factors** incur higher risk of, or better protection against, complex diseases, such as sarcopenia and osteoarthritis.  
 
