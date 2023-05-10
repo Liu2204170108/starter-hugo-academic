@@ -5,8 +5,8 @@ publication_types:
 authors:
   - Yufei Shen
   - Wenqing Yang
-  - Jiachen Liu*
-  - Yu Zhang*
+  - Jiachen Liu *
+  - Yu Zhang *
 doi: 10.1016/j.arr.2022.101576.
 draft: false
 featured: false
