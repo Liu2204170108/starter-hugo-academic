@@ -1,6 +1,6 @@
 ---
 title: Jiachen Liu
-role: Medical doctor (under-graduate)
+role: Medical doctor
 avatar_filename: avatar.jpg
 bio: My research interests include generating, analyzing and integrating big
   data of various omics.
@@ -39,7 +39,7 @@ highlight_name: true
 ---
 Jiachen-Liu is a diligent researcher with extensive multi-/inter-disciplinary expertise in **biostatistics and bioinformatics, big data, transcriptomics, epigenomics, proteomics, complex traits and diseases** (especially osteoarthritis, sarcopenia, and obesity), metabolomics and metagenomics. 
 
-Liu’s work is published in **20** peer-reviewed publications including journals such as ***Redox Biology， Molecular Cancer, Ageing Research Reviews, Journal of Translational Medicine, and Therapeutic Advances in Neurological Disorder***. As of May 2023, these publications have been cited more than **550** times and his **H-index is 10** since the first article published in 2020. Liu currently serves on the editorship/ed-itorial boards of journals(e.g.,***iMeta***), who also worked as a reviewer in several SCI journals in the **Aging** field such as ***Age and Ageing***.
+Liu’s work is published in **22** peer-reviewed publications including journals such as ***Redox Biology, Molecular Cancer, Ageing Research Reviews, Journal of Translational Medicine, Human Genetics and Therapeutic Advances in Neurological Disorder***. As of April 2024, these publications have been cited more than **664** times and his **H-index is 11** since the first article published in 2020. Liu currently serves on the editorship/ed-itorial boards of journals(e.g.,***iMeta***), who also worked as a reviewer in several SCI journals such as ***Age and Ageing, Obesity Reviews, and Molecular Neurobiology***.
 
 Liu’s primary research interests include all those areas that are related to addressing the question: What and how **gene expression network and environmental factors** incur higher risk of, or better protection against, complex diseases, such as sarcopenia and osteoarthritis.  
 
