@@ -28,11 +28,16 @@ social:
 organizations:
   - name: Central south University
     url: https://en.csu.edu.cn/
+  - name: Washington University in St. Louis
+    url: https://wustl.edu/
 education:
   courses:
     - course: Medical doctor (eight-year program)
       institution: Central south university
       year: 2017
+    - course: Visiting Scholar
+      institution: Washington University in St. Louis
+      year: 2022
 email: ljch1999@csu.edu.cn
 superuser: true
 highlight_name: true
