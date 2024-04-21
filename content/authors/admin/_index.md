@@ -37,7 +37,7 @@ education:
       year: 2017
     - course: Visiting Scholar
       institution: Washington University in St. Louis
-      year: 2022
+      year: 2023
 email: ljch1999@csu.edu.cn
 superuser: true
 highlight_name: true
