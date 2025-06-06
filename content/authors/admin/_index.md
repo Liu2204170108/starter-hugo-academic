@@ -29,8 +29,6 @@ social:
 organizations:
   - name: Central south University
     url: https://en.csu.edu.cn/
-  - name: Washington University in St. Louis
-    url: https://wustl.edu/
 education:
   courses:
     - course: Medical doctor (eight-year program)
